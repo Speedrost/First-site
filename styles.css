@@ -1,0 +1,35 @@
+h1{
+	
+	color: white; 
+	font-size: 65px;
+	background-color: teal;
+	}
+	
+ul li {
+	border: solid;
+
+}
+img {
+	border-radius: 80px;
+}
+#prvni {
+	color: white
+}
+
+.prvni-trida{
+	font-style: italic
+}
+.tucna-trida{
+		font-weight: bold;
+		color: darkgrey;
+}
+th.tucna-trida {
+	font-size: 60px;
+}
+
+p {
+	font-family:" Times New Roman", Times, serif;
+}
+.highligh {
+	color: teal;
+	font-weight: bold;
